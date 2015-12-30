@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.FileSplit"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Partitioner"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.mapred.TableInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.mapreduce.TableInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.mapred.TableMapReduceUtil"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.mapreduce.MultiTableOutputFormat"/>
+<fullyQualifiedTypeName name="com.sun.jersey.core.util.Base64"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.protobuf.ProtobufUtil"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.hbase.protobuf.generated.ClientProtos"/>
+</qualifiedTypeNameHistroy>

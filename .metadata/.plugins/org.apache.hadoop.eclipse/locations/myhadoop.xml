@@ -277,7 +277,7 @@
 <property><name>mapreduce.job.userlog.retain.hours</name><value>24</value><source>mapred-default.xml</source></property>
 <property><name>dfs.namenode.secondary.http-address</name><value>0.0.0.0:50090</value><source>hdfs-default.xml</source></property>
 <property><name>mapreduce.task.timeout</name><value>600000</value><source>mapred-default.xml</source></property>
-<property><name>mapreduce.framework.name</name><value>local</value><source>programatically</source></property>
+<property><name>mapreduce.framework.name</name><value>local</value><source>mapred-default.xml</source></property>
 <property><name>mapreduce.jobhistory.loadedjobs.cache.size</name><value>5</value><source>mapred-default.xml</source></property>
 <property><name>ipc.client.idlethreshold</name><value>4000</value><source>core-default.xml</source></property>
 <property><name>ipc.server.tcpnodelay</name><value>false</value><source>core-default.xml</source></property>

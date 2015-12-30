@@ -1,0 +1,15 @@
+Compact Index:
+
+
+
+Suit:   	Before building index	photo1	22.113s	1000records
+		After building index	photo2	21.735s 1000records
+		Build Time		36.033s
+
+
+nonSuit:	Before building index	photo3	34.909s 985records
+		After building index	photo4	21.836s	985records
+		Build Time		43.324s
+
+
+After Building:	2.236s
