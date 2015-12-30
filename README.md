@@ -9,11 +9,13 @@ The environment is set up according to this [blog](http://www.cnblogs.com/shenbi
 
 ### Introduction
 
-**Hadoop Practice ** includes 4 homework and 6 course project.
+**Hadoop Practice ** includes 3 homework and 2 course project.
 
  - homework 1
  - homework 2 
-
+ - IndexBuilder
+ - Search Enginee for Zhilian Hire
+ - Btree Index for Hive
 ### License
 
 Hadoop Practice is released under the MIT License .
